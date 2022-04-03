@@ -1,0 +1,21 @@
+body h1 {
+    background: #013675;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    width: 380px;
+    height: 170px;
+}
+
+body img {
+    width: 700px;
+    height: 325px;
+    align-items: center;
+}
+
+body #american_nightmare {
+    background-image: url("./photos/american_nightmare.png");
+    margin: auto;
+    background-size: contain;
+    background-repeat:no-repeat;
+    width: 150px;
+    height: 110px;
+}
